@@ -137,7 +137,7 @@ function App() {
       <nav className="fixed top-0 w-full bg-white/80 backdrop-blur-md z-50 border-b border-gray-100">
         <div className="max-w-6xl mx-auto px-4 ">
           <div className="flex justify-between items-center py-4">
-            <div className="text-2xl font-bold text-sky-600">Faisal Dev</div>
+            <div className="text-2xl font-bold text-sky-600">Gideon Dev</div>
             <div className="hidden md:flex space-x-8">
               <a
                 href="#home"
@@ -178,7 +178,7 @@ function App() {
           <div className="max-w-14xl mx-auto w-full   p-2  ">
             <div className="text-start py-20">
               <h1 className="text-5xl md:text-start text-center md:text-6xl font-bold text-gray-900 mb-6">
-                Hi, I'm <span className="text-sky-600">Faisal</span>
+                Hi, I'm <span className="text-sky-600">Gideon</span>
               </h1>
               <p className="text-xl md:text-2xl text-gray-600 mb-4 w-full md:text-start text-center">
                 <Typewriter
@@ -399,7 +399,7 @@ function App() {
 
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             <a
-              href="https://github.com/Dekin0Linux"
+              href="https://github.com/gideon211"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-50 p-6 rounded-xl text-center hover:bg-sky-50 hover:shadow-lg transition-all duration-300 group"
@@ -411,7 +411,7 @@ function App() {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/faisal-salif-89b02379/"
+              href="https://www.linkedin.com/in/gideonkwarteng"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-50 p-6 rounded-xl text-center hover:bg-sky-50 hover:shadow-lg transition-all duration-300 group"
@@ -423,7 +423,7 @@ function App() {
             </a>
 
             <a
-              href="mailto:phaisalsalif@gmail.com"
+              href="mailto:kwarteon08@gmail.com"
               className="bg-gray-50 p-6 rounded-xl text-center hover:bg-sky-50 hover:shadow-lg transition-all duration-300 group"
               data-aos="flip-left"
             >
@@ -433,7 +433,7 @@ function App() {
             </a>
 
             <a
-              href="https://wa.me/+233261965074"
+              href="https://wa.me/+233256674138"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gray-50 p-6 rounded-xl text-center hover:bg-sky-50 hover:shadow-lg transition-all duration-300 group"
@@ -448,7 +448,7 @@ function App() {
           <div className="text-center mt-12" data-aos="fade-up">
             <p className="text-gray-600 mb-4">Prefer to reach out directly?</p>
             <a
-              href="mailto:phaisalsalif@gmail.com"
+              href="mailto:kwarteon08@gmail.com"
               className="bg-sky-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-sky-700 transition-colors duration-200 shadow-lg hover:shadow-xl transform hover:-translate-y-1"
             >
               Send Email
@@ -461,13 +461,13 @@ function App() {
       <footer className="bg-gray-900 text-white py-12">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <div className="text-2xl font-bold text-sky-400 mb-4">Faisal</div>
+            <div className="text-2xl font-bold text-sky-400 mb-4">Gideon</div>
             <p className="text-gray-400 mb-6">
               Full-Stack Developer & Designer
             </p>
             <div className="flex justify-center space-x-6 mb-8">
               <a
-                href="https://github.com/Dekin0Linux"
+                href="https://github.com/gideon211"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-sky-400 transition-colors duration-200"
@@ -475,7 +475,7 @@ function App() {
                 <Github className="w-6 h-6" />
               </a>
               <a
-                href="https://www.linkedin.com/in/faisal-salif-89b02379/"
+                href="https://www.linkedin.com/in/gideonkwarteng/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-sky-400 transition-colors duration-200"
@@ -483,13 +483,13 @@ function App() {
                 <Linkedin className="w-6 h-6" />
               </a>
               <a
-                href="mailto:phaisalsalif@gmail.com"
+                href="mailto:kwarteon08@gmail.com"
                 className="text-gray-400 hover:text-sky-400 transition-colors duration-200"
               >
                 <Mail className="w-6 h-6" />
               </a>
               <a
-                href="https://wa.me/+233261965074"
+                href="https://wa.me/+233256674138"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-sky-400 transition-colors duration-200"
@@ -498,7 +498,7 @@ function App() {
               </a>
             </div>
             <p className="text-gray-500 text-sm">
-              © 2022 Faisal Dev. All rights reserved. 
+              © 2022 Gideon Dev. All rights reserved. 
               CSS.
             </p>
           </div>
