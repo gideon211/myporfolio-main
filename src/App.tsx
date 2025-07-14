@@ -194,7 +194,7 @@ function App() {
               </p>
               <p className="text-lg text-gray-500 max-w-2xl mx-auto mb-8 leading-relaxed md:text-start text-center">
                 <Typewriter
-                  words={["Passionate about creating exceptional digital experiences through clean code, innovative solutions and thoughtful design. I specialize in building scalable web and mobile applications that make a difference."]}
+                  words={["Passionate about creating exceptional digital experiences through clean code, innovative solutions and thoughtful design. I specialize in building scalable web that make a difference."]}
                   loop={1}
                   cursor
                   cursorStyle="|"
@@ -246,8 +246,7 @@ function App() {
               <p className="text-gray-600 mb-6 leading-relaxed">
                 With several years of experience in full-stack development, I've
                 had the privilege of working on diverse projects ranging from
-                e-commerce platforms,Fintech platforms, Dashboards, to mobile
-                applications. My approach combines technical expertise with
+                e-commerce platforms,Fintech platforms to Dashboards. My approach combines technical expertise with
                 creative problem-solving to deliver solutions that not only
                 function flawlessly but also provide exceptional user
                 experiences.
@@ -255,7 +254,7 @@ function App() {
               <p className="text-gray-600 mb-8 leading-relaxed">
                 I believe in continuous learning and staying updated with the
                 latest technologies. My experience spans across frontend and
-                backend development, database design, mobile app development,
+                backend development, database design 
                 and graphics design, making me a versatile developer capable of
                 handling end-to-end project development.
               </p>
