@@ -288,13 +288,8 @@ function App() {
                 "Next.js",
                 "Node.js",
                 "MongoDB",
-                "PostgreSQL",
-                "React Native",
                 "Tailwind CSS",
                 "TypeScript",
-                "Express",
-                "Linux",
-                "VPS",
                 "Express",
                 "Firebase",
               ].map((tech, index) => (
