@@ -13,7 +13,6 @@ import {
   Globe,
 } from "lucide-react";
 import { Typewriter } from "react-simple-typewriter";
-import me from '../public/images/me.png'
 import shaq from '../public/images/shaqq.png'
 import dash from '../public/images/dash.png'
 import eganow from '../public/images/eganow.png'
@@ -457,7 +456,7 @@ function App() {
           <div className="text-center">
             <div className="text-2xl font-bold text-sky-400 mb-4">Gideon</div>
             <p className="text-gray-400 mb-6">
-              Full-Stack Developer & Designer
+              Full-Stack Developer 
             </p>
             <div className="flex justify-center space-x-6 mb-8">
               <a
