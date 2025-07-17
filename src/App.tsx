@@ -106,17 +106,12 @@ function App() {
     {
       name: "Backend Development",
       icon: Server,
-      description: "Node.js, Express, RESTful APIs, Firebase, Solidity",
+      description: "Node.js, Express, RESTful APIs, Firebase",
     },
     {
       name: "Database Management",
       icon: Database,
       description: "MongoDB, PostgreSQL, SQL",
-    },
-    {
-      name: "Mobile Development",
-      icon: Smartphone,
-      description: "React Native, Cross-platform apps",
     },
     {
       name: "Graphics Design",
@@ -126,7 +121,7 @@ function App() {
     {
       name: "DevOps & Deployment",
       icon: Globe,
-      description: "Linux, VPS , Docker, CI/CD",
+      description: "Linux, Vervel, Netlify, CI/CD",
     },
   ];
 
