@@ -287,9 +287,12 @@ function App() {
                 "Node.js",
                 "MongoDB",
                 "Tailwind CSS",
+                "JavaScript",
                 "TypeScript",
                 "Express",
                 "Firebase",
+                "Zustand"
+
               ].map((tech, index) => (
                 <span
                   key={index}
