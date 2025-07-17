@@ -101,7 +101,7 @@ function App() {
     {
       name: "Frontend Development",
       icon: Code2,
-      description: "React, Next.js, TypeScript, Tailwind CSS , Webflow",
+      description: "React, Next.js, JavaScript, Tailwind CSS ",
     },
     {
       name: "Backend Development",
