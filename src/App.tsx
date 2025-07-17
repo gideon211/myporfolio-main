@@ -245,7 +245,7 @@ function App() {
               <p className="text-gray-600 mb-6 leading-relaxed">
                 With several years of experience in full-stack development, I've
                 had the privilege of working on diverse projects ranging from
-                e-commerce platforms,Fintech platforms to Dashboards. My approach combines technical expertise with
+                e-commerce platforms to Fintech platforms. My approach combines technical expertise with
                 creative problem-solving to deliver solutions that not only
                 function flawlessly but also provide exceptional user
                 experiences.
