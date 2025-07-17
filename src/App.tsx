@@ -309,8 +309,7 @@ function App() {
               Featured Projects
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              A showcase of my recent work, featuring full-stack applications,
-              mobile apps, and innovative web solutions.
+              A showcase of my recent work, featuring full-stack applications and innovative web solutions.
             </p>
           </div>
 
